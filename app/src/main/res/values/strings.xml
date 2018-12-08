@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckedTextView Example</string>
+    <string name="enable_power_saving">Enable power saving</string>
+    <string name="enable_fail_safe">Enable Fail-safe</string>
+    <string name="auto_power_off_your_device">Auto Power-Off your device</string>
+    <string name="enable_stable_capture">Enable stable capture</string>
+    <string name="enable_offline_mode">Enable Offline mode</string>
+    <string name="your_device_s_settings">Your device\'s settings:</string>
+</resources>
